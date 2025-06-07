@@ -1,0 +1,41 @@
+@use "./variables" as var;
+
+.recomendaciones {
+  width: 480px;
+  min-height: 100vh;
+  max-height: auto;
+
+  top: 95px;
+  display: flex;
+  flex-direction: column;
+
+  backdrop-filter: blur(100px);
+  outline: solid var.$color-primario 2px;
+  position: absolute;
+  z-index: 1;
+
+  .outputR {
+    width: 100%;
+    height: auto;
+
+    padding: 25px 5px;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+
+    font-weight: bold;
+    font-size: 35px;
+    background: transparent;
+    color: white;
+    border: 1px solid #086b99da;
+  }
+  .outputR:hover {
+    background: white;
+    color: black;
+    transition: all ease 0.2s;
+  }
+}
+
+.Rnone {
+  display: none;
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "Código": "001",
+    "Nombre": "ensure",
+    "Precio": "Q100",
+    "Descuento 5%": "Q50",
+    "Drogueria": "Q25",
+    "Canje": "1+1",
+    "Requisitos": "facturas, dpi, canjear en plataforma"
+  },
+  {
+    "Código": "002",
+    "Nombre": "iltuxam 10mg/2.5mg/10mg",
+    "Precio": "Q80",
+    "Descuento 5%": "Q40",
+    "Drogueria": "Q20",
+    "Canje": "2+1",
+    "Requisitos": "facturas, cajas vacías"
+  },
+  {
+    "Código": "003",
+    "Nombre": "iltuxam 20mg",
+    "Precio": "Q150",
+    "Descuento 5%": "Q75",
+    "Drogueria": "Q37.5",
+    "Canje": "3+1",
+    "Requisitos": "cajas vacías"
+  },
+  {
+    "Código": "004",
+    "Nombre": "medicamento4",
+    "Precio": "Q60",
+    "Descuento 5%": "Q30",
+    "Drogueria": "Q15",
+    "Canje": "1+1",
+    "Requisitos": "facturas, dpi, canjear en plataforma"
+  },
+  {
+    "Código": "005",
+    "Nombre": "medicamento5",
+    "Precio": "Q200",
+    "Descuento 5%": "Q100",
+    "Drogueria": "Q50",
+    "Canje": "n/a",
+    "Requisitos": " "
+  },
+  {
+    "Código": "006",
+    "Nombre": "Neurovit",
+    "Precio": "Q120",
+    "Descuento 5%": "Q60",
+    "Drogueria": "Q30",
+    "Canje": "1+1",
+    "Requisitos": "factura, dpi"
+  },
+  {
+    "Código": "007",
+    "Nombre": "Cardioten",
+    "Precio": "Q95",
+    "Descuento 5%": "Q47.5",
+    "Drogueria": "Q23",
+    "Canje": "2+1",
+    "Requisitos": "factura"
+  },
+  {
+    "Código": "008",
+    "Nombre": "Doloquin",
+    "Precio": "Q40",
+    "Descuento 5%": "Q20",
+    "Drogueria": "Q10",
+    "Canje": "1+1",
+    "Requisitos": "factura, caja vacía"
+  },
+  {
+    "Código": "009",
+    "Nombre": "Gastrozid",
+    "Precio": "Q110",
+    "Descuento 5%": "Q55",
+    "Drogueria": "Q28",
+    "Canje": "n/a",
+    "Requisitos": " "
+  },
+  {
+    "Código": "010",
+    "Nombre": "Broncorex",
+    "Precio": "Q85",
+    "Descuento 5%": "Q42.5",
+    "Drogueria": "Q21",
+    "Canje": "3+1",
+    "Requisitos": "caja vacía, dpi"
+  },
+  {
+    "Código": "011",
+    "Nombre": "Neumolin",
+    "Precio": "Q70",
+    "Descuento 5%": "Q35",
+    "Drogueria": "Q18",
+    "Canje": "1+1",
+    "Requisitos": "factura, plataforma"
+  },
+  {
+    "Código": "012",
+    "Nombre": "Hepanix",
+    "Precio": "Q130",
+    "Descuento 5%": "Q65",
+    "Drogueria": "Q32",
+    "Canje": "n/a",
+    "Requisitos": " "
+  },
+  {
+    "Código": "013",
+    "Nombre": "Calmagin",
+    "Precio": "Q60",
+    "Descuento 5%": "Q30",
+    "Drogueria": "Q15",
+    "Canje": "2+1",
+    "Requisitos": "factura, caja vacía"
+  },
+  {
+    "Código": "014",
+    "Nombre": "Osteoflex",
+    "Precio": "Q150",
+    "Descuento 5%": "Q75",
+    "Drogueria": "Q37",
+    "Canje": "3+1",
+    "Requisitos": "caja vacía"
+  },
+  {
+    "Código": "015",
+    "Nombre": "Vitamax",
+    "Precio": "Q100",
+    "Descuento 5%": "Q50",
+    "Drogueria": "Q25",
+    "Canje": "1+1",
+    "Requisitos": "factura, dpi"
+  },
+  {
+    "Código": "016",
+    "Nombre": "Dermofix",
+    "Precio": "Q45",
+    "Descuento 5%": "Q22.5",
+    "Drogueria": "Q11",
+    "Canje": "1+1",
+    "Requisitos": "factura"
+  },
+  {
+    "Código": "017",
+    "Nombre": "Glucotrol",
+    "Precio": "Q160",
+    "Descuento 5%": "Q80",
+    "Drogueria": "Q40",
+    "Canje": "n/a",
+    "Requisitos": " "
+  },
+  {
+    "Código": "018",
+    "Nombre": "Lipoclin",
+    "Precio": "Q90",
+    "Descuento 5%": "Q45",
+    "Drogueria": "Q22",
+    "Canje": "2+1",
+    "Requisitos": "factura, caja vacía"
+  },
+  {
+    "Código": "019",
+    "Nombre": "Rinofed",
+    "Precio": "Q55",
+    "Descuento 5%": "Q27.5",
+    "Drogueria": "Q13",
+    "Canje": "1+1",
+    "Requisitos": "plataforma"
+  },
+  {
+    "Código": "020",
+    "Nombre": "Zenotal",
+    "Precio": "Q125",
+    "Descuento 5%": "Q62.5",
+    "Drogueria": "Q31",
+    "Canje": "3+1",
+    "Requisitos": "factura, dpi, caja vacía"
+  },
+  {
+    "Código": "021",
+    "Nombre": "Artigel",
+    "Precio": "Q140",
+    "Descuento 5%": "Q70",
+    "Drogueria": "Q35",
+    "Canje": "n/a",
+    "Requisitos": " "
+  },
+  {
+    "Código": "022",
+    "Nombre": "Pulmovit",
+    "Precio": "Q75",
+    "Descuento 5%": "Q37.5",
+    "Drogueria": "Q19",
+    "Canje": "2+1",
+    "Requisitos": "factura, caja vacía"
+  },
+  {
+    "Código": "023",
+    "Nombre": "Diurex",
+    "Precio": "Q65",
+    "Descuento 5%": "Q32.5",
+    "Drogueria": "Q16",
+    "Canje": "1+1",
+    "Requisitos": "factura"
+  },
+  {
+    "Código": "024",
+    "Nombre": "Sinudol",
+    "Precio": "Q50",
+    "Descuento 5%": "Q25",
+    "Drogueria": "Q12",
+    "Canje": "1+1",
+    "Requisitos": "factura, dpi"
+  },
+  {
+    "Código": "025",
+    "Nombre": "Floramed",
+    "Precio": "Q105",
+    "Descuento 5%": "Q52.5",
+    "Drogueria": "Q26",
+    "Canje": "2+1",
+    "Requisitos": "factura, caja vacía"
+  }
+]
