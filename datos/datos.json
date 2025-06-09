@@ -1,12 +1,12 @@
 [
   {
-    "Código": "001",
-    "Nombre": "ensure",
-    "Precio": "Q100",
-    "Descuento 5%": "Q50",
-    "Drogueria": "Q25",
-    "Canje": "1+1",
-    "Requisitos": "facturas, dpi, canjear en plataforma"
+    "Código": "0045",
+    "Nombre": "ENSURE AD.  CHOCOLATE 400G",
+    "Precio": "Q186.65",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q171.75",
+    "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
     "Código": "002",
@@ -27,157 +27,157 @@
     "Requisitos": "cajas vacías"
   },
   {
-    "Código": "004",
-    "Nombre": "medicamento4",
-    "Precio": "Q60",
-    "Descuento 5%": "Q30",
-    "Drogueria": "Q15",
-    "Canje": "1+1",
-    "Requisitos": "facturas, dpi, canjear en plataforma"
+    "Código": "0049",
+    "Nombre": "ENSURE AD. FRESA 400G",
+    "Precio": "Q186.65",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q171.75",
+      "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "005",
-    "Nombre": "medicamento5",
-    "Precio": "Q200",
-    "Descuento 5%": "Q100",
-    "Drogueria": "Q50",
-    "Canje": "n/a",
-    "Requisitos": " "
+    "Código": "0050",
+    "Nombre": "ENSURE AD. FRESA 850G",
+    "Precio": "Q379.55",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q349.20",
+   "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "006",
-    "Nombre": "Neurovit",
-    "Precio": "Q120",
-    "Descuento 5%": "Q60",
-    "Drogueria": "Q30",
-    "Canje": "1+1",
-    "Requisitos": "factura, dpi"
+    "Código": "0053",
+    "Nombre": "ENSURE AD. VAINILLA 400G",
+    "Precio": "Q186.65",
+   "Descuento 5%": "n/a",
+    "Drogueria": "Q171.75",
+  "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "007",
-    "Nombre": "Cardioten",
-    "Precio": "Q95",
-    "Descuento 5%": "Q47.5",
-    "Drogueria": "Q23",
-    "Canje": "2+1",
-    "Requisitos": "factura"
+    "Código": "0079",
+    "Nombre": "ENSURE AD.VAINILLA 850G ",
+    "Precio": "Q379.55",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q349.20",
+    "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "008",
-    "Nombre": "Doloquin",
-    "Precio": "Q40",
-    "Descuento 5%": "Q20",
-    "Drogueria": "Q10",
-    "Canje": "1+1",
-    "Requisitos": "factura, caja vacía"
+    "Código": "0056",
+    "Nombre": "ENSURE FRESA 850G ",
+    "Precio": "Q336.65",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q309.75",
+    "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "009",
-    "Nombre": "Gastrozid",
-    "Precio": "Q110",
-    "Descuento 5%": "Q55",
-    "Drogueria": "Q28",
-    "Canje": "n/a",
-    "Requisitos": " "
+    "Código": "0059",
+    "Nombre": "ENSURE VAINLLA 400G",
+    "Precio": "Q162.30",
+     "Descuento 5%": "n/a",
+    "Drogueria": "Q149.35",
+    "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "010",
-    "Nombre": "Broncorex",
-    "Precio": "Q85",
-    "Descuento 5%": "Q42.5",
-    "Drogueria": "Q21",
-    "Canje": "3+1",
-    "Requisitos": "caja vacía, dpi"
+    "Código": "0080",
+    "Nombre": "ENSURE VAINILLA 850G ",
+    "Precio": "Q336.65",
+     "Descuento 5%": "n/a",
+    "Drogueria": "Q309.75",
+     "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "011",
-    "Nombre": "Neumolin",
-    "Precio": "Q70",
-    "Descuento 5%": "Q35",
-    "Drogueria": "Q18",
-    "Canje": "1+1",
-    "Requisitos": "factura, plataforma"
+    "Código": "0064",
+    "Nombre": "GLUSERNA VAINILLA 400G",
+    "Precio": "Q206.80",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q190.26",
+    "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "012",
-    "Nombre": "Hepanix",
-    "Precio": "Q130",
-    "Descuento 5%": "Q65",
-    "Drogueria": "Q32",
-    "Canje": "n/a",
-    "Requisitos": " "
+    "Código": "0081",
+    "Nombre": "GLUSERNA VAINILLA 850G",
+    "Precio": "Q417.30",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q383.95",
+    "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "013",
-    "Nombre": "Calmagin",
-    "Precio": "Q60",
-    "Descuento 5%": "Q30",
-    "Drogueria": "Q15",
-    "Canje": "2+1",
-    "Requisitos": "factura, caja vacía"
+    "Código": "22714",
+    "Nombre": "PEDIASURE 10+ VAINILLA 850G",
+    "Precio": "Q393.10",
+   "Descuento 5%": "n/a",
+    "Drogueria": "Q361.65",
+   "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "014",
-    "Nombre": "Osteoflex",
-    "Precio": "Q150",
-    "Descuento 5%": "Q75",
-    "Drogueria": "Q37",
-    "Canje": "3+1",
-    "Requisitos": "caja vacía"
+    "Código": "0069",
+    "Nombre": "PEDIASURE CHOCOLATE 400G ",
+    "Precio": "Q185.10",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q170.30",
+    "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "015",
-    "Nombre": "Vitamax",
+    "Código": "0070",
+    "Nombre": "Q391.00",
     "Precio": "Q100",
-    "Descuento 5%": "Q50",
-    "Drogueria": "Q25",
-    "Canje": "1+1",
-    "Requisitos": "factura, dpi"
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q359.75",
+    "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "016",
-    "Nombre": "Dermofix",
-    "Precio": "Q45",
-    "Descuento 5%": "Q22.5",
-    "Drogueria": "Q11",
-    "Canje": "1+1",
-    "Requisitos": "factura"
+    "Código": "0073",
+    "Nombre": "PEDIASURE FRESA 900G ",
+    "Precio": "Q391.00",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q359.75",
+    "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "017",
-    "Nombre": "Glucotrol",
-    "Precio": "Q160",
-    "Descuento 5%": "Q80",
-    "Drogueria": "Q40",
-    "Canje": "n/a",
-    "Requisitos": " "
+    "Código": "0074",
+     "Nombre": "PEDIASURE VAINILLA 1600G ",
+     "Precio": "Q676.50",
+     "Descuento 5%": "n/a",
+    "Drogueria": "Q622.40",
+    "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "018",
-    "Nombre": "Lipoclin",
-    "Precio": "Q90",
-    "Descuento 5%": "Q45",
-    "Drogueria": "Q22",
-    "Canje": "2+1",
-    "Requisitos": "factura, caja vacía"
+    "Código": "0083",
+    "Nombre": "PEDIASURE VAINILLA 900G ",
+    "Precio": "Q391.00",
+  "Descuento 5%": "n/a",
+    "Drogueria": "Q359.75",
+   "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "019",
-    "Nombre": "Rinofed",
-    "Precio": "Q55",
-    "Descuento 5%": "Q27.5",
-    "Drogueria": "Q13",
-    "Canje": "1+1",
-    "Requisitos": "plataforma"
+    "Código": "12878",
+    "Nombre": "SIMILAC 1 5HMO 350G",
+    "Precio": "Q194.60",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q182.92",
+     "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "020",
-    "Nombre": "Zenotal",
-    "Precio": "Q125",
-    "Descuento 5%": "Q62.5",
-    "Drogueria": "Q31",
-    "Canje": "3+1",
-    "Requisitos": "factura, dpi, caja vacía"
+    "Código": "12830",
+    "Nombre": "SIMILAC 1 5HMO 350G",
+    "Precio": "Q399.40",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q375.44",
+     "Canje": "5+1",
+    "Requisitos": "Plataforma Abbott"
   },
   {
     "Código": "021",
