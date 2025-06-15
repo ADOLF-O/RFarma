@@ -127,8 +127,8 @@
   },
   {
     "Código": "0070",
-    "Nombre": "Q391.00",
-    "Precio": "Q100",
+    "Nombre": "PEDIASURE CHOCOLATE 900G",
+    "Precio": "Q391.00",
     "Descuento 5%": "n/a",
     "Drogueria": "Q359.75",
     "Canje": "5+1",
@@ -180,48 +180,236 @@
     "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "021",
-    "Nombre": "Artigel",
-    "Precio": "Q140",
-    "Descuento 5%": "Q70",
-    "Drogueria": "Q35",
+    "Código": "0742",
+    "Nombre": "ILTUXAM 20/5 X28",
+    "Precio": "Q535.95",
+    "Descuento 5%": "Q509.15",
+    "Drogueria": "Q482.40",
+    "Canje": "2+1",
+    "Requisitos": "Facturas, dpi, correo, contrseña, plataforma"
+  },
+  {
+    "Código": "0743",
+    "Nombre": "ILTUXAM 40/10 X28",
+    "Precio": "Q515.85",
+    "Descuento 5%": "Q490.05",
+    "Drogueria": "Q464.25",
+   "Canje": "2+1",
+    "Requisitos": "Facturas, dpi, correo, contrseña, plataforma"
+  },
+  {
+    "Código": "0744",
+    "Nombre": "ILTUXAM 40/5 X28",
+    "Precio": "Q515.85",
+    "Descuento 5%": "Q490.06",
+    "Drogueria": "Q464.25",
+   "Canje": "2+1",
+    "Requisitos": "Facturas, dpi, correo, contrseña, plataforma"
+  },
+  {
+    "Código": "20544",
+    "Nombre": "ILTUXAM HCT 20/5/12.5 X28",
+    "Precio": "Q530.80",
+    "Descuento 5%": "Q504.24",
+    "Drogueria": "Q477.75",
+    "Canje": "2+1",
+    "Requisitos": "Facturas, dpi, correo, contrseña, plataforma"
+  },
+  {
+    "Código": "20545",
+    "Nombre": "ILTUXAM HCT 40/10/25 X28",
+    "Precio": "Q530.80",
+    "Descuento 5%": "Q504.24",
+    "Drogueria": "Q477.75",
+    "Canje": "2+1",
+    "Requisitos": "Facturas, dpi, correo, contrseña, plataforma"
+  },
+  {
+    "Código": "20546",
+    "Nombre": "ILTUXAM HCT 40/5/12.5 X28",
+   "Precio": "Q530.80",
+    "Descuento 5%": "Q504.24",
+    "Drogueria": "Q477.75",
+    "Canje": "2+1",
+    "Requisitos": "Facturas, dpi, correo, contrseña, plataforma"
+  },
+  {
+    "Código": "22606",
+    "Nombre": "ILTUXAM  HCT 40/5/25 X28",
+    "Precio": "Q510.90",
+    "Descuento 5%": "Q485.35",
+    "Drogueria": "Q459.80",
+    "Canje": "2+1",
+    "Requisitos": "Facturas, dpi, correo, contrseña, plataforma"
+  },
+   {
+    "Código": "22177",
+    "Nombre": "Bellavit plus fresa X90",
+    "Precio": "Q217.5",
+    "Descuento 5%": "Q206.63",
+    "Drogueria": "Q206.65",
     "Canje": "n/a",
-    "Requisitos": " "
+    "Requisitos": "n/a"
   },
   {
-    "Código": "022",
-    "Nombre": "Pulmovit",
-    "Precio": "Q75",
-    "Descuento 5%": "Q37.5",
-    "Drogueria": "Q19",
-    "Canje": "2+1",
-    "Requisitos": "factura, caja vacía"
+    "Código": "9282",
+    "Nombre": "Gestakid X30",
+    "Precio": "Q113.40",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q107.74",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
   },
   {
-    "Código": "023",
-    "Nombre": "Diurex",
-    "Precio": "Q65",
-    "Descuento 5%": "Q32.5",
-    "Drogueria": "Q16",
-    "Canje": "1+1",
-    "Requisitos": "factura"
+    "Código": "9285",
+    "Nombre": "Vitacid X30",
+    "Precio": "Q113.40",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q107.75",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
   },
   {
-    "Código": "024",
-    "Nombre": "Sinudol",
-    "Precio": "Q50",
-    "Descuento 5%": "Q25",
-    "Drogueria": "Q12",
-    "Canje": "1+1",
-    "Requisitos": "factura, dpi"
+    "Código": "9284",
+    "Nombre": "Vitacid Geriatrico",
+    "Precio": "Q314.00",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q298.30",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
   },
   {
-    "Código": "025",
-    "Nombre": "Floramed",
-    "Precio": "Q105",
-    "Descuento 5%": "Q52.5",
-    "Drogueria": "Q26",
-    "Canje": "2+1",
-    "Requisitos": "factura, caja vacía"
+    "Código": "9283",
+    "Nombre": "Vitacid DL iny 2Am",
+    "Precio": "Q81.60",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q77.55",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "22443",
+    "Nombre": "Crecikids complex 240ml",
+    "Precio": "Q138.00",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q131.10",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "9279",
+    "Nombre": "Crecikids Adol y Adul Jarabe",
+    "Precio": "Q138.00",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q131.10",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "9280",
+    "Nombre": "Crecikids niños 2-5 años",
+    "Precio": "Q138.00",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q131.10",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "9281",
+    "Nombre": "Crecikids niños 6-12 años",
+    "Precio": "Q138.00",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q131.10",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "9286",
+    "Nombre": "Zindol Inyectado 1Am",
+    "Precio": "Q37.10",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q35.25",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "9287",
+    "Nombre": "Zindol Jarabe 120ml",
+    "Precio": "Q53.30",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q50.65",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },  {
+    "Código": "21806",
+    "Nombre": "Levusol Diabetico Cereza X24",
+    "Precio": "Q361.60",
+    "Descuento 5%": "Q343.52",
+    "Drogueria": "n/a",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "21807",
+    "Nombre": "Levusol Diabetico Coco X24",
+    "Precio": "Q361.60",
+    "Descuento 5%": "Q343.53",
+    "Drogueria": "n/a",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "21808",
+    "Nombre": "Levusol Diabetico Manzana X24",
+    "Precio": "Q361.60",
+    "Descuento 5%": "Q343.54",
+    "Drogueria": "n/a",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "21809",
+    "Nombre": "Levusol Diabetico Piña X24",
+    "Precio": "Q361.60",
+    "Descuento 5%": "Q343.55",
+    "Drogueria": "n/a",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "4455",
+    "Nombre": "Levusol Diabetico Cereza X1",
+    "Precio": "Q18.60",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q16.75",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "4456",
+    "Nombre": "Levusol Diabetico Coco X1",
+    "Precio": "Q18.60",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q16.76",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "4457",
+    "Nombre": "Levusol Diabetico Manzana X1",
+    "Precio": "Q18.60",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q16.77",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
+  },
+  {
+    "Código": "4458",
+    "Nombre": "Levusol Diabetico Piña X1",
+    "Precio": "Q18.60",
+    "Descuento 5%": "n/a",
+    "Drogueria": "Q16.78",
+    "Canje": "n/a",
+    "Requisitos": "n/a"
   }
 ]
