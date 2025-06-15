@@ -9,24 +9,6 @@
     "Requisitos": "Plataforma Abbott"
   },
   {
-    "Código": "002",
-    "Nombre": "iltuxam 10mg/2.5mg/10mg",
-    "Precio": "Q80",
-    "Descuento 5%": "Q40",
-    "Drogueria": "Q20",
-    "Canje": "2+1",
-    "Requisitos": "facturas, cajas vacías"
-  },
-  {
-    "Código": "003",
-    "Nombre": "iltuxam 20mg",
-    "Precio": "Q150",
-    "Descuento 5%": "Q75",
-    "Drogueria": "Q37.5",
-    "Canje": "3+1",
-    "Requisitos": "cajas vacías"
-  },
-  {
     "Código": "0049",
     "Nombre": "ENSURE AD. FRESA 400G",
     "Precio": "Q186.65",
